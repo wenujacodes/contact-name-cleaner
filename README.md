@@ -71,7 +71,3 @@ If the preview looks correct, set `DRY_RUN: false` and run `run` again. This tim
 - **Back up first.** Before your first live run, export your contacts as a safety net: [contacts.google.com](https://contacts.google.com) → Export → Google CSV.
 - **Always dry-run first.** Don't flip `DRY_RUN` to false until you've checked the preview output.
 - **Linked/merged contacts.** If a contact is synced from multiple sources (e.g. phone + Google account), the update may apply to only one source. If a name doesn't visually update after a live run, check that contact for a "linked contacts" / merge option in Google Contacts.
-
-## License
-
-MIT - use it, fork it, adapt it for whatever word you need stripped from your own contact list.
